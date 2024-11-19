@@ -6,7 +6,7 @@ To develop a Django application to store and retrieve data from a bank loan data
 
 ## ENTITY RELATIONSHIP DIAGRAM
 
-
+![alt text](<ER DIAGRAM.png>)
 
 ## DESIGN STEPS
 
@@ -54,7 +54,7 @@ class bankloanAdmin(admin.ModelAdmin):
 ## OUTPUT
 
 ![alt text](<Screenshot 2024-11-14 140802.png>)
-![alt text](<ER DIAGRAM.png>)
+
 
 ## RESULT
 Thus the program for creating a database using ORM hass been executed successfully
